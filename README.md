@@ -74,7 +74,7 @@ Puoi testare il progetto direttamente online su Wokwi:
 
 ## Schema elettrico
 
-![Schema LED](https://github.com/zrqzk/Esp32-Blynk-LEDS/blob/3f72fc12330017731c60210d89cc4dd5234a21df/wiring_diagram.png)
+![Schema LED](https://github.com/zrqzk/Esp32-Blynk-3LEDS/blob/bc3dff833d877b193640c864faaffcce2079f538/wiring_diagram.png)
 
 ## Autori 
 
