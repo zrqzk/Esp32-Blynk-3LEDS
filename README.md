@@ -78,7 +78,7 @@ Puoi testare il progetto direttamente online su Wokwi:
 
 ## Autori 
 
-![](https://github.com/zrqzk/Esp32-Blynk-3LEDS/blob/c7f9d74c4b0ab94737d6c7b53f7b8df4b9dbf1c5/22.png)              ![](https://github.com/zrqzk/Esp32-Blynk-LEDS/blob/24472d9c5348a346a29d57cb5456dfe6b065c9d1/22.1.png)
+![](https://github.com/zrqzk/Esp32-Blynk-3LEDS/blob/c7f9d74c4b0ab94737d6c7b53f7b8df4b9dbf1c5/22.png)              ![](https://github.com/zrqzk/Esp32-Blynk-3LEDS/blob/0114f7e0ead175d5a54768f0ee3a70713ea3e664/22.1.png)
 ## Licenza
 
 Questo progetto è distribuito con licenza MIT. Puoi usarlo, modificarlo e condividerlo liberamente.
